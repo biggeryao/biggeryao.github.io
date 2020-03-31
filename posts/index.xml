@@ -23,6 +23,15 @@
     </item>
     
     <item>
+      <title>第四篇博客</title>
+      <link>http://example.org/posts/%E7%AC%AC%E5%9B%9B%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 01 Apr 2020 01:07:39 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E7%AC%AC%E5%9B%9B%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>又见面了 这是我的第四篇博客</description>
+    </item>
+    
+    <item>
       <title>开博大吉</title>
       <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Tue, 31 Mar 2020 21:18:39 +0800</pubDate>
